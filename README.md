@@ -1,2 +1,2 @@
 # agile-final-project
-Final porjecto UCDavis Course
+Final porjecto IBM Course
